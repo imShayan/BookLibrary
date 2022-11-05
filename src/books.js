@@ -1,0 +1,92 @@
+export const books = [
+    {   
+        id:1,
+        title:'Ikigai: The Japanese Secret to a Long and Happiness',
+        author:'Héctor García',
+        img: 'https://images-eu.ssl-images-amazon.com/images/I/814L+vq01mL._AC_UL600_SR600,400_.jpg',
+    },
+    {   
+      id:2,
+        title:'Rich Dad Poor Dad',
+        author:'Robert T. Kiyosaki',
+        img: 'https://m.media-amazon.com/images/I/81ZLwAwD-ML._AC_UY218_.jpg',
+    },
+    {   
+      id:3,
+        title:'The Psychology of Money',
+        author:'Morgan Housel',
+        img: 'https://images-eu.ssl-images-amazon.com/images/I/71g2ednj0JL._AC_UL600_SR600,400_.jpg ',
+    },
+    {   
+        id:4,
+          title:'The Power of your Subconscious Mind',
+          author:'Joseph Murphy',
+          img: 'https://m.media-amazon.com/images/I/81gTwYAhU7L._AC_UY218_.jpg',
+      },
+      {   
+        id:5,
+          title:'The Magic of Thinking Big',
+          author:'Dr. David Schwartz',
+          img: 'https://m.media-amazon.com/images/I/81UZJqFG7VL._AC_UY218_.jpg',
+      },
+      {   
+        id:6,
+          title:'How To Win Friends And Influence People',
+          author:'Dale Carnegie',
+          img: 'https://m.media-amazon.com/images/I/618XGVFYlwL._AC_UY218_.jpg',
+      },
+      {   
+        id:7,
+          title:'Think and Grow Rich',
+          author:'Napoleon Hill',
+          img: 'https://m.media-amazon.com/images/I/81lr6LSKvKS._AC_UY218_.jpg',
+      },
+      {   
+        id:8,
+          title:'Richest Man of Babylon',
+          author:'George S. Clason',
+          img: 'https://m.media-amazon.com/images/I/81NYuWzsJcS._AC_UY218_.jpg',
+      },
+      {   
+        id:9,
+          title:'The Family Wisdom',
+          author:'Robin Sharma',
+          img: 'https://m.media-amazon.com/images/I/719OufhkfZL._AC_UY218_.jpg',
+      },
+      {   
+        id:10,
+          title:'The Subtle Art of Not Giving a FUCK',
+          author:'Mark Manson',
+          img: 'https://m.media-amazon.com/images/I/814jC+rODgL._AC_UY218_.jpg',
+      },
+      {   
+        id:11,
+          title:'THE QURAN - English Meanings and Notes by Saheeh International',
+          author:'Saheeh International',
+          img: 'https://m.media-amazon.com/images/I/91iaUEkAPqL._AC_UY218_.jpg',
+      },
+      {   
+        id:12,
+          title:'Atomic Habits',
+          author:'James Clear',
+          img: 'https://m.media-amazon.com/images/I/91bYsX41DVL._AC_UY218_.jpg',
+      },
+      {   
+        id:13,
+          title:'The Big Leap: Conquer Your Hidden Fear and Take Life to the Next Level',
+          author:'Gay Hendricks',
+          img: 'https://m.media-amazon.com/images/I/611P4h2i0bL._AC_UY218_.jpg',
+      },
+      {   
+        id:14,
+          title:'The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now',
+          author:'Meg Jay',
+          img: 'https://m.media-amazon.com/images/I/81Zm61BJd-L._AC_UY218_.jpg',
+      },
+      {   
+        id:15,
+          title:'The Courage To Be Disliked: How to free yourself, change your life and achieve real happiness',
+          author:'Ichiro kishimi and Fumitake Koga',
+          img: 'https://m.media-amazon.com/images/I/71k7V0QvcdL._AC_UY218_.jpg',
+      },
+  ]
